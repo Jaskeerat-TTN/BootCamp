@@ -1,5 +1,3 @@
 hello
 
 I am in file3
-
-Hello TTH Fam
